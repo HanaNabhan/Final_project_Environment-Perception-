@@ -4,11 +4,11 @@ This repository contains the final project for a course on self-driving car syst
 
 ## Features
 
-### Lane Detection: Tracks road lanes for navigation.
+### Lane Detection: Tracks road lanes .
 
-### Object Detection: Recognizes objects like humans, vehicles, and cones using YOLOv7.
+### Object Detection: Recognizes vehicles.
 
-### Sensor Fusion: Combines odometry, LiDAR, and camera inputs with Kalman filtering.
+### Sensor Fusion: Combines camera inputs with Kalman filtering.
 
 
 ## Requirements
